@@ -6,6 +6,5 @@
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/1-1.jpg)
 
-## 2 . 
 
 
