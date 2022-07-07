@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## APT IRAN Research Center
 
 You can use the [editor on GitHub](https://github.com/APTIRAN/CENTER/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
