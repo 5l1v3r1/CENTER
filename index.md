@@ -11,3 +11,4 @@
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/2-2.jpg?raw=true)
 
 ##### The photo you see is only a part of this disaster... 
+##### Universities, banks, call management center, refineries are only a small part of the story .
