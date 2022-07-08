@@ -36,6 +36,10 @@
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-0.png?raw=true)
 
+##### Security updates
+
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1.png?raw=true)
+
 -----------------------------------------------------------------
 ### 1 . CVE-2022-26134 : Critical severity unauthenticated remote code execution vulnerability in Confluence Server and Data Center(0day) [CHANNEL POST](https://t.me/c/1448596903/204)
 
