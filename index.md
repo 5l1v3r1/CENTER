@@ -15,6 +15,17 @@
 در مورد دیگر ادعاهای این فرد و فیلم دیگری که در مورد سرویس شرکت دیگری منتشر کرده است نظری ندارم و در جایگاه تایید یا رد نیستم. حتما دیگر دوستان/شرکت‌هاو سازمان‌هایی که در مورد آن سرویس‌ها مسئولیت دارند می‌بایست نسبت به این ادعا و هر ادعای دیگری حساسیت داشته باشند و با دقت مورد بررسی قرار دهند.
 با امید حفظ امنیت زیرساخت فناوری اطلاعات در کشور  با سپاس-حکیمی"
 
+##### And now everything has become clear with the investigations of the research center : 
+
+
+mail.sadad.co.ir
+mail.bmi.ir
+mail.mail2.bmi.ir
+
+Microsoft Exchange Deserialization RCE (CVE-2021-42321)
+EXCHANGE SHELL DROP POC ( CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–270658 )
+Microsoft SharePoint Server CVE-2021-26420） 
+Apache Root Privilege Escalation CVE-2019-0211
 
 
 -----------------------------------------------------------------
