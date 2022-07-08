@@ -24,6 +24,8 @@
 
 ###### mail.mail2.bmi.ir
 
+##### vulnerability : 
+
 ###### Microsoft Exchange Deserialization RCE (CVE-2021-42321)
 
 ###### EXCHANGE SHELL DROP POC ( CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–270658 )
