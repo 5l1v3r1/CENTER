@@ -1,6 +1,6 @@
 # APT IRAN Research Center
 -----------------------------------------------------------------
-### 2 .  Fact or lie? A superficial investigation of the latest attack on the National Bank server (mail.sadad.co.ir | mail.bmi.ir | mail.mail2.bmi.ir) 
+### 2 .  Fact or lie? A superficial review of the latest attack on the National Bank server (mail.sadad.co.ir | mail.bmi.ir | mail.mail2.bmi.ir) 
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-1.png?raw=true)
 
