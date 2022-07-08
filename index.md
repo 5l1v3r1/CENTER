@@ -46,6 +46,10 @@
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-2.png?raw=true)
 
+##### We can conclude that this attack is undeniable and it is better to consider these bugs
+
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-3.jpg?raw=true)
+
 -----------------------------------------------------------------
 ### 1 . CVE-2022-26134 : Critical severity unauthenticated remote code execution vulnerability in Confluence Server and Data Center(0day) [CHANNEL POST](https://t.me/c/1448596903/204)
 
