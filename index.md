@@ -6,7 +6,7 @@
 
 ##### Announcing the red status for:
 <div dir="rtl">
-"سازمان انرژی اتمی" 
+"سازمان انرژی اتمی ایران" 
 </div>
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-5.jpg?raw=true)
