@@ -10,9 +10,7 @@
 </div>
 
 
-<div style="text-align: center;">
-![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-5.jpg?raw=true)
-</div>
+<div style="text-align: center;">![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-5.jpg?raw=true)</div>
 
 ### 2 .  Fact or lie? A superficial review of the latest attack on the National Bank server (mail.sadad.co.ir | mail.bmi.ir | mail.mail2.bmi.ir) 
 
