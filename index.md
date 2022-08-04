@@ -13,13 +13,27 @@
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/4-1-5.jpg?raw=true)
 
 <div dir="rtl">
-"بانک مسکن | BANK MASKAN" 
+"بانک مسکن | BANK MASKAN"
+</div>
+<div dir="rtl"> 
 "بانک رفاه | BANK REFAH"
+</div>
+<div dir="rtl">
 "همراه اول | hamrahe aval"
+</div>
+<div dir="rtl">
 "شركت مديريت فناوري بورس تهران"
+</div>
+<div dir="rtl">
 "توسن | TOSAN"
+</div>
+<div dir="rtl">
 "ابرآروان  | ArvanCloud"
+</div>
+<div dir="rtl">
 "بیمه کوثر | kins"
+</div>
+<div dir="rtl">
 "بانک پاسارگاد | bpi"
 </div>
 
