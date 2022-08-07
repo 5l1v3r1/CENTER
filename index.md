@@ -11,7 +11,18 @@
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/5-1-1.png?raw=true)
 
+##### Mapping the domain ( Graph ) => 
+
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/5-1-2.png?raw=true)
+
+##### We see IPs that are exposed due to incorrect configuration !
+
+##### Attackers get IPs after checking some values:
+###### 1 . DNS Servers 
+###### 2 . MX Records 
+###### 3 . TXT Records 
+###### 4 . Host (A) Records
+###### 1 . Domain Map
 
 
 ### 3 . Some important organizations and institutions of Iran are exposed to the vulnerability of CVE-2022-26134 ( OGNL injection Atlassian Confluence ) 
