@@ -21,7 +21,7 @@
 ###### 1 . DNS Servers 
 ###### 2 . MX Records 
 ###### 3 . TXT Records 
-###### 4 . Host (A) Records
+###### 4 . Host (A) Records ( static database ) 
 ###### 1 . Domain Map
 
 ##### In the following, we take a look at some of the exposed IPs :
