@@ -24,6 +24,9 @@
 ###### 4 . Host (A) Records
 ###### 1 . Domain Map
 
+##### In the following, we take a look at some of the exposed IPs :
+ 
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/5-1-3.png?raw=true)
 
 ### 3 . Some important organizations and institutions of Iran are exposed to the vulnerability of CVE-2022-26134 ( OGNL injection Atlassian Confluence ) 
 
