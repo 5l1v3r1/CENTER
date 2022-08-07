@@ -11,6 +11,7 @@
 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/5-1-1.png?raw=true)
 
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/5-1-2.png?raw=true)
 
 
 ### 3 . Some important organizations and institutions of Iran are exposed to the vulnerability of CVE-2022-26134 ( OGNL injection Atlassian Confluence ) 
