@@ -3,6 +3,9 @@
 ### 5 . The monopolistic line of the cafebazaar mafia to deal with Google Play under the pretext of self-sufficiency ( Related to Rubika ) 
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/cafebazaar1.jpg?raw=true)
 ##### As you know, Cafe Bazaar has become a source for spreading malware in Iran
+##### It is not a myth to think that all the cafebazaar mafia or Rubika Gardan decide for us what to use!
+##### In this created topic, we are trying to introduce a part of the dirty game of CafeBazaar.
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/cafebazaar2.png?raw=true)
 
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
