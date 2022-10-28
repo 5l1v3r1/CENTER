@@ -16,6 +16,10 @@
 #### No warning will be received from Google Play Protect before opening Rubika.
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/Rubika3.png?raw=true)
 #### Here, we make sure that Rubica has not received any access from the target device.
+##### But in some cases, you see a warning to users on higher Androids and the latest version of Google Play.
+##### In the previous years, an exploit was registered for Google Play Protect : shorturl.at/ceLM4 
+##### With this exploit, the user was able to easily bypass Google Play's security shield
+##### Decreasing and increasing the "TargetSdkVersion" entry on the target malware caused the malware to be ignored.
 
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
