@@ -12,7 +12,7 @@
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/Rubika1.png?raw=true)
 #### As you can see in the photo above, after some time Google Play Protect detects Rubika as a malware.
 ##### Let's look at the matter a little more closely.
-
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/Rubika2.png?raw=true)
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
 
