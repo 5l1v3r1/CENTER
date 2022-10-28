@@ -6,7 +6,8 @@
 ##### It is not a myth to think that all the cafebazaar mafia or Rubika Gardan decide for us what to use!
 ##### In this created topic, we are trying to introduce a part of the dirty game of CafeBazaar.
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/cafebazaar2.png?raw=true)
-
+#### In the picture above, you can see something called "Bazaar Security Shield".
+##### 
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
 
