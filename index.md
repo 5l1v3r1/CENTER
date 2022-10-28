@@ -1,5 +1,10 @@
 # APT IRAN Research Center
 -----------------------------------------------------------------
+### 5 . The monopolistic line of the cafebazaar mafia to deal with Google Play under the pretext of self-sufficiency ( Related to Rubika ) 
+![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/cafebazaar1.jpg?raw=true)
+##### As you know, Cafe Bazaar has become a source for spreading malware in Iran
+
+
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
 
 ##### In this section, we will review Skyroom : 
