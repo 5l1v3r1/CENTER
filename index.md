@@ -20,6 +20,7 @@
 ##### In the previous years, an exploit was registered for Google Play Protect : shorturl.at/ceLM4 
 ##### With this exploit, the user was able to easily bypass Google Play's security shield
 ##### Decreasing and increasing the "TargetSdkVersion" entry on the target malware caused the malware to be ignored.
+##### Neither Cafe Bazaar nor Google Play can be trusted because Cafe Bazaar itself uses Google Play's criteria to identify malware.
 
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
