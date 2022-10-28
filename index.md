@@ -7,7 +7,9 @@
 ##### In this created topic, we are trying to introduce a part of the dirty game of CafeBazaar.
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/cafebazaar2.png?raw=true)
 #### In the picture above, you can see something called "Bazaar Security Shield".
-##### 
+#### The criterion for detecting malware in the cafebazaar is actually Google Play Protect itself !!
+##### Now cafebazaar has arrogantly claimed something called "Bazaar Security Shield", which is not true, in fact Cafebazaar is using Google Play Protect.
+
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
 
