@@ -11,6 +11,7 @@
 ##### Now cafebazaar has arrogantly claimed something called "Bazaar Security Shield", which is not true, in fact Cafebazaar is using Google Play Protect.
 ![alt text](https://github.com/APTIRAN/CENTER/blob/gh-pages/images/Rubika1.png?raw=true)
 #### As you can see in the photo above, after some time Google Play Protect detects Rubika as a malware.
+##### Let's look at the matter a little more closely.
 
 
 ### 4 . Arvancloud Origin ip Disclosure ( Arvancloud is built to help hackers ! ) 
